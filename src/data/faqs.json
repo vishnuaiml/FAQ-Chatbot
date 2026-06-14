@@ -1,0 +1,98 @@
+[
+  {
+    "id": "faq_ret_policy",
+    "category": "E-Commerce & Orders",
+    "question": "What is your return policy?",
+    "answer": "You can return standard products within 30 days of purchase for a full refund. Items must be in original condition, unused, and with original packaging. Return shipping is free!"
+  },
+  {
+    "id": "faq_cnt_support",
+    "category": "General Support",
+    "question": "How can I contact support?",
+    "answer": "You can reach our customer support team via email at support@techcorp.com or call our hotline at 1-800-555-0199 Monday through Friday, from 9 AM to 6 PM EST."
+  },
+  {
+    "id": "faq_int_ship",
+    "category": "E-Commerce & Orders",
+    "question": "Do you offer international shipping?",
+    "answer": "Yes, we ship to over 100 countries worldwide. International shipping options, custom duties, and shipping rates are computed at checkout based on your delivery address."
+  },
+  {
+    "id": "faq_trk_order",
+    "category": "E-Commerce & Orders",
+    "question": "How do I track my order?",
+    "answer": "Once your order is shipped, we will send you a confirmation email containing a tracking link. You can also view shipping details in your Account Dashboard under Order History."
+  },
+  {
+    "id": "faq_pwd_reset",
+    "category": "Account & Security",
+    "question": "How do I reset my password?",
+    "answer": "To reset your password, click the 'Forgot Password' link on the sign-in page. Enter your registered email, and we will send you secure, step-by-step instructions to create a new password."
+  },
+  {
+    "id": "faq_pay_methods",
+    "category": "Billing & Payments",
+    "question": "What payment methods are accepted?",
+    "answer": "We accept all major credit and debit cards (Visa, Mastercard, American Express, Discover), PayPal, Apple Pay, Google Pay, and direct bank transfers."
+  },
+  {
+    "id": "faq_chg_order",
+    "category": "E-Commerce & Orders",
+    "question": "Can I change or cancel my order after it is placed?",
+    "answer": "Orders are processed rapidly, but you can cancel or modify your shipping details within 60 minutes of placing the order by calling our support hotline or clicking 'Cancel Order' in your dashboard."
+  },
+  {
+    "id": "faq_adm_req",
+    "category": "Admissions & Academics",
+    "question": "What are the undergraduate admission requirements?",
+    "answer": "Undergraduate admissions require a completed online application, official high school transcripts, a counselor recommendation letter, a personal essay, and optional SAT or ACT standardized test scores."
+  },
+  {
+    "id": "faq_adm_deadline",
+    "category": "Admissions & Academics",
+    "question": "When is the application deadline for the fall semester?",
+    "answer": "The priority application deadline for the fall semester is January 15th. Regular decision applications are accepted on a rolling basis until March 1st."
+  },
+  {
+    "id": "faq_scholarships",
+    "category": "Admissions & Academics",
+    "question": "Do you offer scholarships or financial aid?",
+    "answer": "Yes, we offer merit-based academic scholarships and custom need-based financial aid. Students should submit their FAFSA and financial aid application by March 15th to be considered."
+  },
+  {
+    "id": "faq_campus_visit",
+    "category": "Admissions & Academics",
+    "question": "How can I schedule a campus tour?",
+    "answer": "You can schedule guided student-led campus tours online through our Admissions Tour Portal. We host group tours Monday through Saturday. A virtual interactive 360-degree tour is also available!"
+  },
+  {
+    "id": "faq_app_crash",
+    "category": "Technical support",
+    "question": "My software is crashing. How can I troubleshoot it?",
+    "answer": "First, make sure your operating system and graphics drivers are updated to the latest versions. Try clearing the application cache, restarting your computer, or performing a clean reinstallation. If issues persist, please email us your crash logs!"
+  },
+  {
+    "id": "faq_sys_req",
+    "category": "Technical support",
+    "question": "What are the minimum system requirements?",
+    "answer": "The program requires Windows 10/11 (64-bit) or macOS 12 (Monterey) or higher, 8GB RAM, an Intel Core i5 or AMD Ryzen 5 or Apple M1 processor, and 4GB of available SSD space."
+  },
+  {
+    "id": "faq_upgrade",
+    "category": "Account & Security",
+    "question": "How do I upgrade to the premium subscription?",
+    "answer": "Navigate to 'Billing Settings' inside your account console, select 'Premium Subscription', pick either the monthly or annual billing cycle, and securely enter your payment details to gain instant access."
+  },
+  {
+    "id": "faq_data_sec",
+    "category": "Account & Security",
+    "question": "Is my personal data safe and secure?",
+    "answer": "Absolutely. We encrypt all personal and payment information using AES-256 at rest and TLS 1.3 in-transit. We fully comply with international security frameworks and GDPR privacy regulations."
+  },
+  {
+    "id": "faq_offline_mode",
+    "category": "Technical support",
+    "question": "Can I use the app offline without internet?",
+    "answer": "Yes, our applications support full offline modes! You can access downloaded materials, write drafts, and complete offline exercises. Your locally saved progress will automatically synchronize when you're back online."
+  }
+]
